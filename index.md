@@ -1,4 +1,5 @@
 ---
+layout: single
 ---
 
 ## Welcome to GitHub Pages

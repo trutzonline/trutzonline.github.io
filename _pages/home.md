@@ -1,5 +1,7 @@
 ---
-layout: single
+
+permalink: /
+ 
 ---
 
 ## Welcome to GitHub Pages

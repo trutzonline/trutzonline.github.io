@@ -3,10 +3,30 @@ include: ["_pages"]
 minimal_mistakes_skin: "contrast"
 locale: de
 date_format: "%-d.%-m.%Y"
-plugins:
-  - jekyll-feed
-  - jekyll-include-cache
-whitelist:
-  - jekyll-feed
-  - jekyll-include-cache
-
+author:
+  name     : "Christian Trutz"
+  avatar   : "/assets/images/bio-photo.jpg"
+  bio      : "Debug your brain"
+  location : "Marl"
+  links:
+    - label : "LinkedIn"
+      icon  : "fab fa-fw fa-linkedin"
+      url   : "https://www.linkedin.com/in/christiantrutz"
+    - label : "GitHub"
+      icon  : "fab fa-fw fa-github"
+      url   : "https://github.com/belaso"
+    - label : "Instagram"
+      icon  : "fab fa-fw fa-instagram"
+      url   : "https://instagram.com/christiantrutz"
+    - label : "Twitter"
+      icon  : "fab fa-fw fa-twitter-square"
+      url   : "https://twitter.com/ChristianTrutz"
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      read_time : true
+      share     : true
+      layout    : single

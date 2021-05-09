@@ -34,3 +34,13 @@ Warum solltest du MongoDB in deinen Software Projekten verwenden?
 - Suchen werden verglichen mit SQL Datenbanken performater ausgeführt,
 - beim Einfügen und beim Aktualisieren von Dokumenten kann zwischen Performance und Sicherheit abgewogen werden und 
 - MongoDB ist entwickler-freundlich.
+
+## Installation
+
+{% include video id="ReDxb3yxOIM" provider="youtube" %}
+
+Installiere bitte 
+- die [MongoDB Community Server Version](https://www.mongodb.com/try/download/community) und 
+- die [Database Tools](https://www.mongodb.com/try/download/database-tools) von MongoDB.
+
+Die Database Tools beinhalten das `mongoimport` Kommando mit dem Massendaten nach MongoDB importiert werden können. Dieses Kommando wirst Du in den späteren Lektionen benötigen.

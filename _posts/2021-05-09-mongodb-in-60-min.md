@@ -44,3 +44,7 @@ Installiere bitte
 - die [Database Tools](https://www.mongodb.com/try/download/database-tools) von MongoDB.
 
 Die Database Tools beinhalten das `mongoimport` Kommando mit dem Massendaten nach MongoDB importiert werden können. Dieses Kommando wirst Du in den späteren Lektionen benötigen.
+
+## Grundlegende Komponenten
+ 
+{% include video id="4zZhnmVMdfs" provider="youtube" %}

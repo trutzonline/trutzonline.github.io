@@ -1,10 +1,10 @@
 ---
-title: Eva Herrman, Narzissmus und die Familienpolitik
+title: Eva Herman, Narzissmus und die Familienpolitik
 toc: true
 tags: Politik Narzissmus Verschwörungstheorien Familienpolitik
 ---
 
-Eva Herman war bis 2006 eine sehr beliebte Nachrichtensprecherin der Tagesschau. Geboren ist sie 1958 in Emden, ihr Vater stirbt, als sie 6 Jahre war. Sie heiratet 1981 Werner Herrmann, worauf sie den Künstlernamen Eva Herman (mit einem 'n' am Ende) annimmt[^biographie]. Nach vier Ehen lebt sie jetzt in Kanada[^kanada] mit Andreas Popp, dem Betreiber der rechtsgerichtete Webseite Wissensmanufaktur.
+Eva Herman war bis 2006 eine sehr beliebte Nachrichtensprecherin der Tagesschau. Geboren ist sie 1958 in Emden, ihr Vater stirbt, als sie 6 Jahre war. Sie heiratet 1981 Werner Hermann, worauf sie den Künstlernamen Eva Herman (mit einem 'n' am Ende) annimmt[^biographie]. Nach vier Ehen lebt sie jetzt in Kanada[^kanada] mit Andreas Popp, dem Betreiber der rechtsgerichtete Webseite Wissensmanufaktur.
 
 ## Beliebte Tagesschau-Sprecherin
 

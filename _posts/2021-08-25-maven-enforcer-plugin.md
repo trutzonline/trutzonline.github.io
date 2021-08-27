@@ -1,7 +1,7 @@
 ---
 title: Maven Enforcer Plugin
 toc: true
-tags: maven plugin java
+tags: Maven Plugin Java
 ---
 
 Manche Maven Projekte müssen auf bestimmte Betriebsysteme oder mit bestimmten Java Versionen gebaut werden. Oder sie dürfen bestimmte Artefakte nicht als Dependencies haben.

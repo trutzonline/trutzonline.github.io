@@ -35,6 +35,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-sitemap
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -42,6 +43,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-sitemap
 # HTML Compression
 # - https://jch.penibelst.de/
 compress_html:

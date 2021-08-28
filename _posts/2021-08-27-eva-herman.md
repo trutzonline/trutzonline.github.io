@@ -58,7 +58,7 @@ Dieses komplette Zubehör, passend zur Verschwörungstheorie wird aus einer einz
 
 ## Fazit
 
-Eva Herman ist für mich ein Musterbeispiel einer Halb-Prominenten, die sich in Richtung rechts in den letzten Jahren radikalisiert hat. Sie hat ihren Narzissmus befriedigt indem sie die Schuld für ihre Enlassung aus dem System auf die *anderen* und auf *das System* projiziert hat. Sie bekräftigt täglich über ihren Telegram-Kanal und über die Webseite Wissensmanufaktur ihre *Unschuld* indem sie Verschwörungstheorien verbreitet und baut drumherum noch ein Business auf. Sie hat es sich bequem in ihrer neuen künstlichen Welt eingerichtet.
+Eva Herman ist für mich ein Musterbeispiel einer Halb-Prominenten, die sich in Richtung rechts in den letzten Jahren radikalisiert hat. Sie hat ihren Narzissmus befriedigt indem sie die Schuld für ihre Entlassung aus dem System auf die *anderen* und auf *das System* projiziert hat. Sie bekräftigt täglich über ihren Telegram-Kanal und über die Webseite Wissensmanufaktur ihre *Unschuld* indem sie Verschwörungstheorien verbreitet und baut drumherum noch ein Business auf. Sie hat es sich bequem in ihrer neuen künstlichen Welt eingerichtet.
 
 ## Quellen
 

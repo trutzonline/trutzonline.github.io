@@ -1,6 +1,6 @@
 ---
 title: Unsere Werte
-toc: true
+toc: false
 tags: Politik Werte Rationalität COVID-19 Impfungen
 ---
 

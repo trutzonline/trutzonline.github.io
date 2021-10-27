@@ -6,7 +6,7 @@ tags: Politik Werte Rationalität COVID-19 Impfungen
 
 Die Diskussionen der letzten 20 Monate zum Thema COVID-19 und Impfungen sind auch Kämpfe um unsere Werte. Unser wichtigster Wert hier in Deutschland ist die Unverletzbarkeit der Würde des Menschen (Artikel 1 GG). Für mich bedeutet dies auch, dass wir Menschen niemals als Verhandlungsmasse, als Objekte betrachten dürfen und dies ist natürlich eine wichtige Lehre aus der Zeit des Nationalsozialismus.
 
-Wenn das Tragen einer Maske als Rechtfertigung für einen Mord dient, dann erreichen wir eine sehr problematische Grenze. Wenn öffentlich der Täter zum Opfer gemacht wird dann ist eine Grenze erreicht, die so nicht mehr tolerierbar ist. Ich rede natürlich von der Tat in Idar-Oberstein[^idar], bei der am 18.09.2021 ein Mann in einer Tankstelle einen Studenten per Kopfschuß ermordet hat. Ermordet hat, weil er keine Maske tragen wollte.
+Wenn das Tragen einer Maske als Rechtfertigung für einen Mord dient, dann erreichen wir eine sehr problematische Grenze. Wenn öffentlich der Täter zum Opfer gemacht wird dann, ist eine Grenze erreicht, die so nicht mehr tolerierbar ist. Ich rede natürlich von der Tat in Idar-Oberstein[^idar], bei der am 18.09.2021 ein Mann in einer Tankstelle einen Studenten per Kopfschuß ermordet hat. Ermordet hat, weil er keine Maske tragen wollte.
 
 Warum schreibe ich dies? Weil ich auf LinkedIn Kommentare eines "Großmeister" wie diesen hier lese:
 

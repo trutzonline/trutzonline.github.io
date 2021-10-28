@@ -18,5 +18,7 @@ Sascha Lobo hat Recht, wenn er schreibt:
 
 >Die Geschichte des »Drachenlords« ist damit eine katastrophale Versagensgeschichte der digitalen Gesellschaft, verantwortet von Medien, Politik, Exekutive, Jurisdiktion und dem Publikum.
 
+![Der Cybermob](/assets/images/drachenlord.jpg "Cybermobbing auch vor Ort")
+
 [^saschalobo]: Eine Kolumne von Sascha Lobo [Ein jahrelanges Martyrium in Deutschland – und niemand hält es auf](https://www.spiegel.de/netzwelt/netzpolitik/der-fall-drachenlord-ein-jahrelanges-martyrium-in-deutschland-und-niemand-haelt-es-auf-kolumne-a-91b94ce3-ab01-4ac1-9286-d85bea144928)
 [^drachenlord]: Drachen Lord auf Youtube [Verhandlung und meine Meinung](https://youtu.be/S3dNn7FhAdQ)

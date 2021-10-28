@@ -4,8 +4,6 @@ toc: false
 tags: Cybermobbing Mobbing Hatespeech
 ---
 
-# Drachen Lord
-
 Nachdem ich die Kolumne von Sasche Lobo[^saschalobo] über den YouTuber Drachen Lord[^drachenlord] gelesen habe, war ich entrüstet und schockiert.
 
 >Der YouTuber »Drachenlord« wird seit Jahren von einem Mob gequält, bedroht und belästigt. Nun hat er sich gewehrt und wurde zu einer Haftstrafe verurteilt. Ein katastrophales Versagen von Justiz, Medien und Gesellschaft. 

@@ -1,7 +1,7 @@
 ---
 title: Soziale Medien
 toc: true
-tags: Politik soziale_Medien
+tags: Politik Soziale_Medien
 ---
 
 Wir alle kennen die sozialen Medien (SM) und halten uns bedenkenlos darin auf. Manche konsumieren, andere konsumieren und produzieren. Wir wissen natürlich, dass SM die Eigenart haben Cluster oder Blasen zu bilden.

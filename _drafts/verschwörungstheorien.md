@@ -18,6 +18,13 @@ Das Ziel des VT ist nie eine Diskussion auf Augenhöhe zu führen, das Ziel ist 
 
 ---
 
+## Links zu Beispielen
+
+Dog whistle
+- [^sskutting]: [Jörg Kutting](https://www.linkedin.com/posts/activity-6861624245240250368-YAjb)
+- [^impfung]: [Petra Kominkova](https://www.linkedin.com/posts/petrakominkova_ich-bin-f%C3%BCr-die-allererste-1g-regeleinlass-activity-6861580839189299200-zZjB)
+
+
 ## Ideen
 
 Die Linken haben kein Problem damit links bezeichnet zu werden, die Rechten haben ein Problem damit rechts bezeichnet zu werden.

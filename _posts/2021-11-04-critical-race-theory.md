@@ -6,7 +6,7 @@ tags: Politik Rassismus CRT
 
 ## Critical Race Theory (CRT)
 
-CRT oder Critical Race Theory entschied die letzte Wahl in Virginia/USA[^virginia] zu Gunsten der Republikaner (Glenn Youngkin). Diese Virginia Wahl war für die Repulikaner ein wichtiger Puzzelstein für die im nächsten Jahr stattfindenden Midterms und natürlich für die nächste Präsidentenwahl. Was ist eigentlich CRT? The Guardian[^guardian] schreibt dazu
+CRT oder Critical Race Theory entschied die letzte Wahl vor wenigen Tagen in Virginia/USA[^virginia] zu Gunsten der Republikaner (Glenn Youngkin). Diese Virginia Wahl war für die Repulikaner ein wichtiger Puzzelstein für die im nächsten Jahr stattfindenden Midterms und natürlich für die nächste Präsidentenwahl. Was ist eigentlich CRT? The Guardian[^guardian] schreibt dazu
 
 >CRT, examines the ways in which racism was embedded into American law and other modern institutions, maintaining the dominance of white people
 

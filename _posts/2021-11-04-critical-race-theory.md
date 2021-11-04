@@ -1,5 +1,5 @@
 ---
-title: Verschwörungstheorien
+title: CRT und das Spielen mit Wahlen
 toc: true
 tags: Politik Rassismus CRT
 ---
@@ -38,9 +38,9 @@ Die Republikaner gewinnen damit eine wichtige Wahl mit einem Thema, das gleichze
 
 Die Aufdeckung solcher Strategien und die Besetzung der Politik mit "echten" Problemen wird umso wichtiger, sowohl für Deutschland als auch für Europa.
 
-- [^guardian]: [How did Republicans turn critical race theory into a winning electoral issue?](https://www.theguardian.com/us-news/2021/nov/03/republicans-critical-race-theory-winning-electoral-issue)
-- [^realchrisrufo]: [Christopher F. Rufo auf Twitter](https://twitter.com/realchrisrufo)
-- [^fnaumann]: [Friedrich Naumann Stiftung](https://www.freiheit.org/de)
-- [^virginia]: [Ergebnis der Virginia Wahl](https://results.elections.virginia.gov/vaelections/2021%20November%20General/Site/Statewide.html)
-- [^youngkin]: [Youngkin Promises to Ban CRT in Schools if Elected Virginia Governor](https://news.yahoo.com/youngkin-promises-ban-crt-schools-145548135.html)
-- [^crt]: [Critical Race Training in K-12](https://criticalrace.org/k-12/)
+[^guardian]: [How did Republicans turn critical race theory into a winning electoral issue?](https://www.theguardian.com/us-news/2021/nov/03/republicans-critical-race-theory-winning-electoral-issue)
+[^realchrisrufo]: [Christopher F. Rufo auf Twitter](https://twitter.com/realchrisrufo)
+[^fnaumann]: [Friedrich Naumann Stiftung](https://www.freiheit.org/de)
+[^virginia]: [Ergebnis der Virginia Wahl](https://results.elections.virginia.gov/vaelections/2021%20November%20General/Site/Statewide.html)
+[^youngkin]: [Youngkin Promises to Ban CRT in Schools if Elected Virginia Governor](https://news.yahoo.com/youngkin-promises-ban-crt-schools-145548135.html)
+[^crt]: [Critical Race Training in K-12](https://criticalrace.org/k-12/)

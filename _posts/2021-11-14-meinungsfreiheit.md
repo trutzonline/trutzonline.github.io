@@ -4,8 +4,6 @@ toc: true
 tags: Politik Soziale_Medien Meinungsfreiheit
 ---
 
-## Freiheiten
-
 Jeder von uns möchte die Freiheit haben die eigenen materiellen Bedürfnisse zu befriedigen. Ich verstehe darunter Essen, Wohnung, Bewegung, Gesundheit usw. Wenn diese materiellen Bedürfnisse nicht im ausreichenden Maß befriedigt sind, dann bekommen alle anderen Freiheiten eher einen theoretischen, sekundären Charakter. Wenn meine Kinder hungern, ist die Besorgung von Essen mein primäres Ziel und nicht meine Meinungsfreiheit. Wenn die materiellen Bedürfnisse ausreichend befriedigt sind, dann möchten wir alle auch immaterielle Freiheiten erreichen, selbstverständlich auch die Meinungsfreiheit.
 
 Die Meinungsfreiheit ist in Zeiten der sozialen Medien komplexer geworden und erfordert von uns die Fähigkeit mit ihr umzugehen. Historisch gesehen, war die Meinungsfreiheit zunächst ein Privileg der Herrschenden. In unseren demokratischen Gesellschaften wurde dann die Meinungsfreiheit zu einem Recht aller Bürger. Dieses Recht ist sowohl theoretisch als auch praktisch vorhanden, dennoch ist es so, dass die normalen Bürger das Recht auf Meinungsfreiheit lediglich mit einer sehr kleinen Reichweite ausüben können. Der normale Bürger kann Bekannten, Freunden, Verwandten die eigene Meinung über die Politik zum Beispiel sagen, seine Reichweite ist aber extrem eingeschränkt, er erreicht vielleicht 100 Menschen. Meinungen können sich als Mund-zu-Mund Propaganda verbreiten, dies ist aber ein relativ langsamer Prozeß, der Wochen und Monate benötigt.

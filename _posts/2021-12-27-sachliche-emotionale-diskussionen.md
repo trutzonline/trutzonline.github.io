@@ -46,5 +46,4 @@ Natürlich werden in den sozialen Medien weiterhin emotionale und sachliche Disk
 ## Quellen
 
 - Gitta Peyn, [Die 3 Phasen der Pseudoargumentation im postmodernen Treibsand](https://gitta-peyn.de/die-3-phasen-der-argumentation-im-postmodernen-treibsand/)
-
 - Scott Barry Kaufman, [Spiritualität auf Abwegen](https://www.spektrum.de/news/yoga-und-meditation-ein-spiritueller-deckmantel-fuer-narzissmus/1938055?fbclid=IwAR1AgSNnFVujLG5FTLnekS5m5PwTTRrOeEJbeG4GtkI-zMoPEUiYw7SfCpk)

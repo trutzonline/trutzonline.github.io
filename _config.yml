@@ -2,13 +2,13 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "dark"
 include: ["_pages"]
 title: "trutz.online"
-#subtitle: "subtitle"
+subtitle: "Softwareentwicklung"
 locale: de
 date_format: "%-d.%-m.%Y"
 author:
   name     : "Christian Trutz"
   avatar   : "/assets/images/bio-photo.jpg"
-  bio      : "Softwareentwicklung"
+  bio      : "Spring Boot & MongoDB"
   links:
     - label : "LinkedIn"
       icon  : "fab fa-fw fa-linkedin"

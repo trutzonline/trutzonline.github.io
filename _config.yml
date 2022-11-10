@@ -1,6 +1,8 @@
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "neon"
 include: ["_pages"]
-#minimal_mistakes_skin: "trutz"
+title: "title"
+subtitle: "subtitle"
 locale: de
 date_format: "%-d.%-m.%Y"
 author:

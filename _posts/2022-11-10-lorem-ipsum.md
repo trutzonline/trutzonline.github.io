@@ -1,7 +1,7 @@
 ---
 title: Lorem Ipsum
 toc: true
-tags: Tag1 Tag2 Tag3
+tags: test
 ---
 
 ## Was ist Lorem Ipsum?

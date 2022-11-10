@@ -36,4 +36,5 @@ analytics:
   google:
     tracking_id: "UA-123251195-5"
     anonymize_ip: false # default
-
+plugins:
+  - jekyll-include-cache

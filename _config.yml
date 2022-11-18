@@ -5,6 +5,7 @@ title: "trutz.online"
 subtitle: "Softwareentwicklung"
 locale: de
 date_format: "%-d.%-m.%Y"
+url: "https://trutz.online"
 author:
   name     : "Christian Trutz"
   avatar   : "/assets/images/bio-photo.jpg"
@@ -38,3 +39,4 @@ analytics:
     anonymize_ip: false # default
 plugins:
   - jekyll-include-cache
+  - jekyll-sitemap # generiert die sitemap.xml für Google

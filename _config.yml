@@ -35,7 +35,7 @@ defaults:
 analytics:
   provider: "google"
   google:
-    tracking_id: "UA-123251195-5"
+    tracking_id: "UA-249921293-1"
     anonymize_ip: false # default
 plugins:
   - jekyll-include-cache

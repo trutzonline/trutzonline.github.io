@@ -15,8 +15,6 @@ Anhand der Aufgabe "Ist eine vorgegebene Zahl negativ?" werden wir ein sehr einf
 
 Das Thema ist sicherlich nicht trivial. Ich stecke aber momentan viel Arbeit rein um es so verständlich wie nur möglich darzustellen, denn ich denke, dass "KI" ein Zukunfsthema ist, das in den nächsten Jahren eine extrem große Rolle spielen wird. Wir sind bei dem Thema KI momentan auf dem Stand wie bei dem Thema Internet Anfang der 1990er Jahre. Jeder hat mal was davon gehört, jeder projiziiert Träume und Dystopien (Terminator Style) darauf. Mit meinem Kurs möchte ich Dir anbieten in das Thema KI einzusteigen indem Du selber sehr kleine Netze aufbaust und damit herumspielst. Es macht Spaß und die Gehirnzellen werden aktiviert.
 
-#workshop
-#softwareengineering
-#ki
+#workshop #softwareengineering #ki #python
 
 ![Marl Sonnenaufgang am 20.11.2022](/assets/images/KI-fuer-Laien-2022-11-20.jpg "Marl Sonnenaufgang am 20.11.2022")

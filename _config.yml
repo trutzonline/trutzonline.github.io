@@ -2,7 +2,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "contrast"
 include: ["_pages"]
 title: "trutz.online"
-subtitle: "Softwareentwicklung"
+subtitle: "Foto- und Videojournalismus"
 locale: de
 date_format: "%-d.%-m.%Y"
 url: "https://trutz.online"
@@ -20,9 +20,12 @@ author:
     - label : "Twitter"
       icon  : "fab fa-fw fa-twitter-square"
       url   : "https://twitter.com/christiantrutz"
-    - label : "GitHub"
-      icon  : "fab fa-fw fa-github"
-      url   : "https://github.com/belaso"
+    - label : "Mastodon"
+      icon  : "fab fa-fw fa-mastodon"
+      url   : "https://nrw.social/@hadesnews"
+    - label : "Instagram"
+      icon  : "fab fa-fw fa-instagram"
+      url   : "https://www.instagram.com/trutz.online/"
 defaults:
   # _posts
   - scope:

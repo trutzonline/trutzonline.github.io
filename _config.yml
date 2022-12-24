@@ -11,9 +11,6 @@ author:
   avatar   : "/assets/images/bio-photo.jpg"
   bio      : "Politik & Social Media"
   links:
-    - label : "LinkedIn"
-      icon  : "fab fa-fw fa-linkedin"
-      url   : "https://www.linkedin.com/in/christiantrutz"
     - label : "YouTube"
       icon  : "fab fa-fw fa-youtube"
       url   : "https://www.youtube.com/c/christiantrutz"

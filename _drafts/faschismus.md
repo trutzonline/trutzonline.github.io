@@ -3,7 +3,7 @@ title: Faschismus
 tags: Gedanken Kommentare
 ---
 
-Dieser Artikel enthält meine Kommentare und Gedanken zu Faschismus, sie sind beim Lesen des Buches "Faschismus" von Paul Mason entstanden.
+Dieser Artikel enthält meine Gedanken zu Faschismus. Sie sind beim Lesen des Buches "Faschismus" von Paul Mason entstanden.
 
 > Der Faschismus ist die Angst vor der Freiheit, die durch eine Ahnung von Freiheit geweckt wird.
 

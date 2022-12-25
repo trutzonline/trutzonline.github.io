@@ -13,16 +13,16 @@ author:
   links:
     - label : "YouTube"
       icon  : "fab fa-fw fa-youtube"
-      url   : "https://www.youtube.com/c/christiantrutz"
+      url   : "https://www.youtube.com/@trutzonline"
     - label : "Twitter"
       icon  : "fab fa-fw fa-twitter-square"
-      url   : "https://twitter.com/christiantrutz"
+      url   : "https://twitter.com/trutzonline"
     - label : "Mastodon"
       icon  : "fab fa-fw fa-mastodon"
-      url   : "https://nrw.social/@hadesnews"
+      url   : "https://nrw.social/@trutzonline"
     - label : "Instagram"
       icon  : "fab fa-fw fa-instagram"
-      url   : "https://www.instagram.com/trutz.online/"
+      url   : "https://www.instagram.com/trutzonline"
 defaults:
   # _posts
   - scope:

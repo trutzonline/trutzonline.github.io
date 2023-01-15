@@ -8,11 +8,11 @@ tags:
 
 Meine Gedanken zur gestrigen Großdemo in #Lützerath. Es war kalt und windig, Nieselregen den ganzen Tag. Die Polizei hatte im Süden von Lützerath alle Zufahrtstraßen gesperrt, so dass man nur noch vom Norden her, über Keyenberg anreisen konnte. Extrem viele Menschen, nach meiner Schätzung mehrere 10 Tausend waren da. Sehr viele sind mit Bussen angereist, ich konnte Fridays for Future Gruppen erkennen aber auch Die Linke (Partei), Greenpeace und Antifas ("schwarzer Block" mit Antifa Flagge). Es waren aber auch viele typisch bürgerliche Menschen, die man eher dem links-grünen Spektrum zuordnen würde.
 
-![[/assets/images/luezi-bleibt-demo-2.jpg]]
+![Demo in Keyenberg](/assets/images/luezi-bleibt-demo-2.jpg)
   
 Es war sehr laut, die Menschen skandierten. Für mich fühle sich das Ganze trotzdem gespenstisch an, da nirgends Polizei zu sehen war, wie üblicherweise bei jeder Demo der Fall ist. Die Demo zwängte sich durch Keyenberg extrem langsam voran, es waren einfach zu viele Menschen da für diese kleine Ortschaft. Aktivisten sammelten Spenden, am Strassenrand gab es Linsensuppe gratis (extrem lecker).
 
-![[/assets/images/luezi-bleibt-demo-3.jpg]]
+![Super leckere Linsensuppe](/assets/images/luezi-bleibt-demo-3.jpg)
   
 Als man aus Keyenberg raus lief konnte man endlich schneller laufen. Es gab jetzt keinen Demozug mehr die Menschen liefen einfach über verschiedene Feldwege nach Lützerath. Meine Gedanken in dem Moment: huau, so viele Menschen und so wenig Polizei, was läuft hier ab.  
   

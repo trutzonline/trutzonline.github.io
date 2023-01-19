@@ -5,6 +5,14 @@ tags:
   - Münster
   - AfD
   - Antifa
+  - Donbas
+  - Russland
+  - Ukraine
+  - Impfgegener
+  - Rechtsextremismus
+  - Corona
+  - Covid
+  - Faschismus
 ---
 
 Die AfD Münster veranstaltet am 20. Januar 2023 ihren Neujahrsempfang. Erwartet wird auch Björn Höcke, Landessprecher der AfD in Thüringen. Das Bündnis "Keinen Meter den Nazis" ruft zu Gegenprotesten auf.

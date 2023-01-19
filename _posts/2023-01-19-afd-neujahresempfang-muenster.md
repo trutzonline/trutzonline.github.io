@@ -17,7 +17,7 @@ tags:
 
 Die AfD Münster veranstaltet am 20. Januar 2023 ihren Neujahrsempfang. Erwartet wird auch Björn Höcke, Landessprecher der AfD in Thüringen. Das Bündnis "Keinen Meter den Nazis" ruft zu Gegenprotesten auf.
 
-![[/assets/images/afd-neujahresempfang-muenster-1.jpg]]
+![Plakat AfD-Neujahrsempfang und Demo Keinen Meter den Nazis](/assets/images/afd-neujahresempfang-muenster-1.jpg)
 
 Einer der Redner, Dr. Martin Vincentz, sprach sich gegen eine Impfpflicht während der Corona-Pandemie aus, was ihn in Kreisen der Impfgegner populär machte. Es sei nicht die Krankheitslast von COVID-19, die kritische Infrastrukturen gefährde, sondern das Regierungshandeln. Neben Vincentz treten Christian Blex und Björn Höcke als Redner auf. Zwei Namen, mit denen sich Vincentz sicher nicht gerne auf der Bühne sieht.
 

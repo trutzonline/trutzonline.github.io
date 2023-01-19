@@ -23,4 +23,3 @@ Für Münsteraner Verhältnisse ist das, was sich am Freitag auf dem Prinzipalma
 1. [Westfälische Nachrichten - Was Sie zum Gegenprotest und den Auswirkungen in der Stadt wissen müssen](https://www.wn.de/muenster/afd-neujahrsempfang-protest-gegendemo-sperrungen-auswirkungen-2691586)
 2. [WDR - Wie ein AfD-Empfang in Münster parteiintern für Unruhe sorgt](https://www1.wdr.de/nachrichten/landespolitik/afd-neujahrsempfang-hoecke-muenster-100.html)
 3. [Merkur - Wegen Skandal-Reise nach Russland: AfD wirft Abgeordneten Blex aus der Fraktion](https://www.merkur.de/politik/ukraine-krieg-donbass-propaganda-besuch-afd-politiker-melnyk-weidel-chrupalla-donezk-kriegsgebiet-zr-91799519.html)
-4. 

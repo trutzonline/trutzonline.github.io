@@ -23,7 +23,7 @@ Einer der Redner, Dr. Martin Vincentz, sprach sich gegen eine Impfpflicht währe
 
 Dabei scheint es weniger Björn Höcke zu sein, der Vincentz Probleme bereitet. Zwar ist der Thüringer AfD-Politiker die Galionsfigur der Ultrarechten in der Partei und wird von weiten Teilen des NRW-Landesvorstands abgelehnt. Doch selbst selbsternannte "Gemäßigte" in der Partei akzeptieren Höcke inzwischen als Teil der Partei - auch wenn er und seine Unterstützer maßgeblich dazu beigetragen haben, dass die AfD ins Visier der Verfassungsschützer geraten ist.
 
-Vincentz' größeres Problem ist Christian Blex: Im September vergangenen Jahres war der Landtagsabgeordnete aus der Fraktion geflogen. Er hatte versucht, über Russland in die Ostukraine zu reisen, um sich - wie er damals beteuerte - ein Bild von der Lage zu machen. Die Reise wurde bundesweit kritisiert, da die AfD vor Ausbruch des Ukraine-Krieges als eher russlandfreundlich galt. Seit Beginn des Krieges versucht die Partei, dieses Image loszuwerden.
+Vincentz' größeres Problem ist Christian Blex: Im September vergangenen Jahres war der Landtagsabgeordnete aus der Fraktion geflogen. Er hatte versucht, über Russland in die Ostukraine zu reisen, um sich - wie er damals beteuerte - ein Bild von der Lage zu machen. Die Reise wurde bundesweit kritisiert, da die AfD vor Ausbruch des Ukraine-Krieges als eher russlandfreundlich galt. ~~Seit Beginn des Krieges versucht die Partei, dieses Image loszuwerden.~~[^korrektur]
 
 Für Münsteraner Verhältnisse ist das, was sich am Freitag auf dem Prinzipalmarkt abspielen wird, eine echte Ausnahmesituation. Das antifaschistische Bündnis "Keinen Meter den Nazis" erwartet zahlreiche Teilnehmer zur angekündigten Demonstration gegen den geplanten Neujahrsempfang der AfD und den Aufmarsch zahlreicher Rechtsextremer. Mit der Einladung des Faschisten Björn Höcke positioniert sich die AfD Münster nun ganz offen und eindeutig.
 
@@ -31,3 +31,5 @@ Für Münsteraner Verhältnisse ist das, was sich am Freitag auf dem Prinzipalma
 1. [Westfälische Nachrichten - Was Sie zum Gegenprotest und den Auswirkungen in der Stadt wissen müssen](https://www.wn.de/muenster/afd-neujahrsempfang-protest-gegendemo-sperrungen-auswirkungen-2691586)
 2. [WDR - Wie ein AfD-Empfang in Münster parteiintern für Unruhe sorgt](https://www1.wdr.de/nachrichten/landespolitik/afd-neujahrsempfang-hoecke-muenster-100.html)
 3. [Merkur - Wegen Skandal-Reise nach Russland: AfD wirft Abgeordneten Blex aus der Fraktion](https://www.merkur.de/politik/ukraine-krieg-donbass-propaganda-besuch-afd-politiker-melnyk-weidel-chrupalla-donezk-kriegsgebiet-zr-91799519.html)
+
+[^korrektur]: Für diese Aussage gibt es keine ausreichenden Belege; sie stand so in der ursprünglichen Fassung des Artikels und wurde später durchgestrichen.

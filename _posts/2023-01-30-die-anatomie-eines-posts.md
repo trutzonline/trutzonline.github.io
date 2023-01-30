@@ -3,6 +3,7 @@ title: Die Anatomie eines LinkedIn-Beitrags über Annalena Baerbock
 tags:
   - LinkedIn
   - Annalena Baerbock
+  - Provokation
 ---
 
 Gestern ist [einer meiner LinkedIn-Beiträge](https://www.linkedin.com/posts/christiantrutz_wutbaesrger-baerbock-activity-7025341763867267073-krgY) viral gegangen.

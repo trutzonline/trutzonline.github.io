@@ -43,3 +43,4 @@ analytics:
 plugins:
   - jekyll-include-cache
   - jekyll-sitemap # generiert die sitemap.xml für Google
+  - jekyll-feed # generiert einen Atom feed

@@ -8,7 +8,7 @@ tags:
   - Donbas
   - Russland
   - Ukraine
-  - Impfgegener
+  - Impfgegner
   - Rechtsextremismus
   - Corona
   - Covid

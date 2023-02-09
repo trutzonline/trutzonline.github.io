@@ -19,7 +19,7 @@ Beginnen möchte ich mit der Ärztin Dr. Lisa-Maria Kellermayr, die ihren letzte
 
 Ihr Leidensweg beginnt mit einem Tweet der Polizei. Ende Januar 2022 stürmen Querdenker das Universitätsklinikum Leipzig[^klinikum] und Dr. Kellermayr schreibt einen Tweet, in dem sie behauptet, alle Ein- und Ausgänge des Klinikums seien von Querdenkern blockiert worden. Sie wird von der Polizei mit einem Tweet korrigiert, da nicht ausnahmslos alle Ein- und Ausgänge blockiert wurden. 
 
-![](assets/images/notwendigkeit-einer-aufarbeitung-004.jpg)
+![](/assets/images/notwendigkeit-einer-aufarbeitung-004.jpg)
 
 Leider löscht Kellermayr ihren Tweet zu spät. Eine Impfärztin, die etwas "Falsches" auf Twitter behauptet, ist ein gefundenes Fressen für Querdenker. Die untenstehenden Screenshots wurden von Dr. Kellermayr auf Twitter veröffentlicht und sind eine Ansammlung von Gewaltfantasien von Menschen ohne Hemmungen und Anstand. Eine Ansammlung, die man nicht lesen sollte, wenn man schwache Nerven hat.
 

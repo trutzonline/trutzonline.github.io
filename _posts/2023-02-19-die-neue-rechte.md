@@ -11,6 +11,7 @@ tags:
   - NPD
   - QUerdenker
   - Rechtsextermismus
+  - Neue Rechte
 ---
 
 Wenn wir von rechten Gruppierungen, Tendenzen und Parteien sprechen, müssen wir zwischen der Alten und der Neuen Rechten unterscheiden. Diese begriffliche Unterscheidung ist sehr wichtig, weil man sonst Gefahr läuft, das Phänomen "rechts" relativ undifferenziert und damit ungenau zu analysieren.

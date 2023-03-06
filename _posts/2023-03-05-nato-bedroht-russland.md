@@ -28,7 +28,7 @@ Insgesamt stehen damit derzeit rund 35.000 NATO-Soldaten an der NATO-Ostflanke[^
 
 Die NATO bedroht Russland nicht, die NATO hat in der Vergangenheit sehr viel Rücksicht auf die Sicherheitsinteressen Russlands genommen, dass diese Rücksicht zurückgefahren wird, ist nach dem Überfall Russlands auf die Ukraine mehr als verständlich.
 
-Vor allem in den sozialen Medien gibt es Karten, die zeigen, wie Russland von der NATO quasi umzingelt ist. Diese Darstellungen sind ein Zerrbild der Realität, denn
+Vor allem in den sozialen Medien gibt es Karten, die zeigen, wie Russland von der NATO quasi umzingelt ist. Diese Darstellungen sind ein Zerrbild der Realität.
 
 Zusammenfassend kann gesagt werden, dass:
 

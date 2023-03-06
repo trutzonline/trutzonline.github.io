@@ -3,15 +3,14 @@ title: Die Neue Rechte
 tags:
   - Ethnopluralismus
   - NPD
-  - Björn Höcke
+  - Höcke
   - AfD
   - Faschismus
   - Impfgegner
-  - Björn Höcke
+  - Höcke
   - NPD
-  - QUerdenker
-  - Rechtsextermismus
-  - Neue Rechte
+  - Querdenker
+  - Rechtsextremismus
 ---
 
 Wenn wir von rechten Gruppierungen, Tendenzen und Parteien sprechen, müssen wir zwischen der Alten und der Neuen Rechten unterscheiden. Diese begriffliche Unterscheidung ist sehr wichtig, weil man sonst Gefahr läuft, das Phänomen "rechts" relativ undifferenziert und damit ungenau zu analysieren.

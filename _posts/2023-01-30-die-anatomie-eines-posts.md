@@ -2,7 +2,7 @@
 title: Die Anatomie eines LinkedIn-Beitrags über Annalena Baerbock
 tags:
   - LinkedIn
-  - Annalena Baerbock
+  - Baerbock
   - Provokation
 ---
 

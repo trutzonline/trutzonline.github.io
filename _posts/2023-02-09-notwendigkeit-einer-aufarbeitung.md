@@ -1,7 +1,7 @@
 ---
 title: Die Notwendigkeit einer Aufarbeitung...
 tags:
-  - Ulrike Guerot
+  - Guerot
   - Querdenker
   - Impfgegner
   - Corona

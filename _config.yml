@@ -27,6 +27,10 @@ author:
       icon  : "fab fa-fw fa-instagram"
       url   : "https://www.instagram.com/trutzonline"
 defaults:
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
   # _posts
   - scope:
       path: ""

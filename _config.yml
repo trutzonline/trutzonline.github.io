@@ -35,11 +35,6 @@ defaults:
       read_time : true
       share     : true
       layout    : single
-analytics:
-  provider: "google"
-  google:
-    tracking_id: "UA-249921293-1"
-    anonymize_ip: false # default
 plugins:
   - jekyll-include-cache
   - jekyll-sitemap # generiert die sitemap.xml für Google

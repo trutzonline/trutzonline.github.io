@@ -6,7 +6,7 @@ tags:
   - Populismus
 ---
 
-![](mit-rechten-reden.jpg)
+![](/assets/images/mit-rechten-reden.jpg)
 
 Die weit verbreitete Haltung "Mit Rechten reden" versteht Rechtspopulismus vor allem als rhetorisches Phänomen. Die vermeintliche Spaltung der Gesellschaft wird als eine Art gestörte Beziehung gesehen und paartherapeutische Methoden werden als geeignetes Mittel angesehen. Diesem Paradigma folgt derzeit die CDU, die einerseits von einer "Brandmauer nach rechts" spricht, andererseits aber auf kommunaler Ebene, vor allem im Osten, mit der AfD zumindest spricht, wenn nicht gar kooperiert. Ein weiteres prominentes Beispiel für den Versuch des "Reden mit Rechten" ist die Rede von Markus Söder am 10.06.2023 in Erding bei einer Veranstaltung, bei der zahlreiche AfD-Anhänger, aber auch Querdenker anwesend waren.
 

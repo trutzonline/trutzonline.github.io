@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<article class="prose lg:prose-xl mx-auto px-9 py-16" itemscope
+    itemtype="https://schema.org/TechArticle">
+    {% if page.title %}
+    <h1 itemprop="headline">{{ page.title }}</h1>
+    {% endif %}
+
+    {{ content }}
+
+    <hr class="mx-32 my-7 h-1 border-0 rounded bg-trutzonline bg-opacity-30" />
+
+    <p>
+        {% if page.date %}
+        <it itemprop="dateCreated" class="text-trutzonline-gray italic">{{ page.date | date: "%d.%m.%Y" }}</it>
+        {% endif %}
+        {% if page.author %}
+        <it itemprop="author" class="text-trutzonline-gray italic">{{ page.author }}</it>
+        {% endif %}
+    </p>
+
+</article>

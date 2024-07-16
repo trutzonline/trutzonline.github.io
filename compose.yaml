@@ -1,0 +1,12 @@
+version: '3'
+services:
+  jekyll:
+    image: jekyll/jekyll:4.2.2
+    volumes:
+      - jekyll:/usr
+      - .:/srv/jekyll
+    ports:
+      - 4000:4000
+    command: jekyll serve --watch --force_polling --incremental --drafts --future
+volumes:
+  jekyll: {}

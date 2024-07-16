@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<div class="container mx-auto max-w-xl px-9 py-16">
+    <ul>
+        {% for post in site.posts %}
+        <a class="no-underline" href="{{ post.url | relative_url }}">
+            <li class="prose lg:prose-xl">
+                {% if post.title %}
+                <h2 class="underline underline-offset-4">{{ post.title }}</h2>
+                {% endif %}
+                <p>
+                    {{ post.excerpt | markdownify | strip_html | truncate: 300 }}
+                    <br />
+                    <it class="text-trutzonline-gray italic">{{ post.date | date: "%d.%m.%Y" }}</it>
+                    {% if post.author %}
+                    <it class="text-trutzonline-gray italic">{{ post.author }}</it>
+                    {% endif %}
+                </p>
+            </li>
+        </a>
+        <hr class="mx-32 my-7 h-1 border-0 rounded bg-trutzonline bg-opacity-30" />
+        {% endfor %}
+    </ul>
+
+    <a class="underline text-trutzonline-gray-dark" href="/impressum.html">Impressum</a>
+</div>

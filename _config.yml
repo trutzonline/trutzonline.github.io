@@ -1,35 +1,7 @@
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "contrast"
-include: ["_pages"]
-title: "trutz.online"
-subtitle: "Politischer Foto- und Videojournalismus"
-locale: de
-date_format: "%-d.%-m.%Y"
 url: "https://trutz.online"
-author:
-  name     : "Christian Trutz"
-  avatar   : "/assets/images/bio-photo.jpg"
-  bio      : "Politik & Social Media"
-  links:
-    - label : "LinkedIn"
-      icon  : "fab fa-fw fa-linkedin"
-      url   : "https://www.linkedin.com/in/christiantrutz/"
-    - label : "YouTube"
-      icon  : "fab fa-fw fa-youtube"
-      url   : "https://www.youtube.com/@trutzonline"
-    - label : "Twitter"
-      icon  : "fab fa-fw fa-twitter-square"
-      url   : "https://twitter.com/trutzonline"
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      read_time : true
-      share     : true
-      layout    : single
+baseurl: ""
+title: "trutz.online"
+exclude: ["package.json", "package-lock.json", "tailwind.config.js", "tailwind-input.css", "*.ps1", "renovate.json", "README.md", "compose.yaml"]
 plugins:
   - jekyll-include-cache
   - jekyll-sitemap # generiert die sitemap.xml für Google
-  - jekyll-feed # generiert einen Atom feed

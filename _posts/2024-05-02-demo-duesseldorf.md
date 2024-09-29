@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pro Palästina Demo in Düsseldorf"
-author: chris
+author: Christian Trutz
 ---
 
 Fast jeden Samstag findet in Düsseldorf eine Pro-Palästina-Demonstration statt. Am letzten Samstag, dem 27.04.2024, sollten Frauen an der Spitze der Demonstration laufen, um auf die besonders prekäre Situation der Frauen im Gazastreifen aufmerksam zu machen. Die Demo mit ca. 200 Teilnehmer:innen startete mit Verspätung und es konnten nur wenige Frauen gefunden werden, die eher zögerlich vorne mitgelaufen waren.

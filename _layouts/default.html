@@ -8,6 +8,7 @@
     <meta charset="utf-8" />
     <title>{{ site.title }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
+    {% if jekyll.environment == "production" %}
     <script>
         (function () {
             var webSdkScript = document.createElement("script");
@@ -51,6 +52,7 @@
             document.head.appendChild(webSdkScript);
         })();
     </script>
+    {% endif %}
 
 </head>
 

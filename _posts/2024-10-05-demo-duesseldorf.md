@@ -9,7 +9,7 @@ Am 05.10.2024 um 14:00 Uhr startet die Demo mit ca. 500 Teilnehmer:innen in Düs
 
 ![Rote Haende](/assets/img/2024-10-05-demo-duesseldorf/2024-10-05-duesseldorf-425.jpg)
 
-Diese Symbolik ist am Jahrestag des Überfalls der Hamas auf Israel am 07.10.2023 sehr problematisch, da sie an Ramallah erinnert. Der Lynchmord von Ramallah war ein gewalttätiger Zwischenfall, der sich am 12. Oktober 2000 - zu Beginn der zweiten Intifada - in der Polizeistation von al-Bireh ereignete. Ein palästinensischer Trauerzug drang in die Polizeistation ein, tötete zwei Reservisten der IDF und verstümmelte ihre Leichen[^1]. Einer der Lynchmörder, Aziz Salha, trat ans Fenster und zeigte seine blutigen Hände als Beweis für seine Tat.
+Diese Symbolik ist sehr problematisch, da sie an Ramallah erinnert. Der Lynchmord von Ramallah war ein gewalttätiger Zwischenfall, der sich am 12. Oktober 2000 - zu Beginn der zweiten Intifada - in der Polizeistation von al-Bireh ereignete. Ein palästinensischer Trauerzug drang in die Polizeistation ein, tötete zwei Reservisten der IDF und verstümmelte ihre Leichen[^1]. Einer der Lynchmörder, Aziz Salha, trat ans Fenster und zeigte seine blutigen Hände als Beweis für seine Tat.
 
 ![Screenshot Ramallah](/assets/img/2024-10-05-demo-duesseldorf/screenshot-2024-10-06.png)
 _Screenshot aus obigem Wikipedia Artikel_

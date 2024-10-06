@@ -5,7 +5,6 @@ author: Christian Trutz
 ---
 
 ![Start der Demo](/assets/img/2024-10-05-demo-duesseldorf/2024-10-05-duesseldorf-437.jpg)
-
 Am 05.10.2024 um 14:00 Uhr startet die Demo mit ca. 500 Teilnehmer:innen in Düsseldorf. Einige Demonstrantinnen und Demonstranten tragen rote Plastikhandschuhe, die Blut an den Händen symbolisieren.
 
 ![Rote Haende](/assets/img/2024-10-05-demo-duesseldorf/2024-10-05-duesseldorf-425.jpg)

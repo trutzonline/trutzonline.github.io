@@ -22,7 +22,7 @@ Ein Sprecher verkündete zu Beginn der Demonstration, dass nur palästinensische
 
 ![RJ](/assets/img/2024-10-05-demo-duesseldorf/2024-10-05-duesseldorf-409.jpg)
 
-Mein Versuch, ein Interview mit RJ zu führen, scheiterte leider daran, dass einer ihrer Sprecher mir mitteilte, RJ gebe Interviews nur Personen, die sie kennt. Es ist interessant, dass die RJ an dieser pro-palästinensischen Demonstration in Düsseldorf teilnimmt, meines Wissens zum ersten Mal, da die Kommunistische Partei dines Libanon heute zur Mobilisierung des Libanon aufruft.[^2]:
+Mein Versuch, ein Interview mit RJ zu führen, scheiterte leider daran, dass einer ihrer Sprecher mir mitteilte, RJ gebe Interviews nur Personen, die sie kennt. Es ist interessant, dass die RJ an dieser pro-palästinensischen Demonstration in Düsseldorf teilnimmt, meines Wissens zum ersten Mal, da die Kommunistische Partei Libanons heute zur Mobilisierung des Libanon aufruft.[^2]:
 
 > Die Kommunistische Partei Libanons ruft dazu auf, eine allgemeine Mobilisierung des Volkes auszurufen und den Kampf in einen nationalen Kampf umzuwandeln...
 

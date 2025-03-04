@@ -2,6 +2,7 @@
 layout: post
 title: "Pro-Palästina-Demo und Mahnwache gegen Antisemitismus in Köln"
 author: Christian Trutz
+tags: ["demo"]
 ---
 
 ![Kopftuch und Flagge](/assets/img/2024-10-12-demo-koeln/2024-10-10-koeln-470.jpg)

@@ -6,22 +6,25 @@ layout: default
     {% if page.title %}
     <h1 itemprop="headline">{{ page.title }}</h1>
     {% endif %}
+    {% for tag in page.tags %}
+    <span class="bg-white text-moonstone text-lg font-bold me-2 px-2.5 py-0.5 rounded-sm">{{ tag }}</span>
+    {% endfor %}
 
     {{ content }}
 
-    <hr class="mx-32 my-7 h-1 border-0 rounded bg-trutzonline bg-opacity-30" />
+    <hr class="mx-32 my-7 h-1 border-0 rounded bg-orange bg-opacity-30" />
 
     <p>
         {% if page.date %}
-        <it itemprop="dateCreated" class="text-trutzonline-gray italic">{{ page.date | date: "%d.%m.%Y" }}</it>
+        <it itemprop="dateCreated" class="italic">{{ page.date | date: "%d.%m.%Y" }}</it>
         {% endif %}
         {% if page.author %}
-        <it itemprop="author" class="text-trutzonline-gray italic">{{ page.author }}</it>
+        <it itemprop="author" class="italic">{{ page.author }}</it>
         {% endif %}
     </p>
 
     <p> WERBUNG:
-        <it class="text-trutzonline-gray italic">Kritische Berichterstattung und politische Analysen schreiben sich nicht von selbst.
+        <it class="italic">Kritische Berichterstattung und politische Analysen schreiben sich nicht von selbst.
         Ich würde mich sehr freuen, wenn Du mich dabei 
             <a href="https://www.paypal.com/paypalme/trutzonline">mit einer Spende über PayPal</a> 
         unterstützen würdest.</it>

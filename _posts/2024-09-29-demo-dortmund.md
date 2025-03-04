@@ -2,6 +2,7 @@
 layout: post
 title: "Pro Libanon und Palästina Demo in Dortmund"
 author: Christian Trutz
+tags: ["demo"]
 ---
 
 ![Demo in Dortmund](/assets/img/2024-09-29-demo-dortmund/2024-09-29-0015.jpg)

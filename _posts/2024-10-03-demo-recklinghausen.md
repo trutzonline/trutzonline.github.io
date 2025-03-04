@@ -2,6 +2,7 @@
 layout: post
 title: "Tag der Deutschen Einheit 2024"
 author: Christian Trutz
+tags: ["demo"]
 ---
 
 ![Demo in Recklinghausen](/assets/img/2024-10-03-demo-recklinghausen/2024-10-03-0039.jpg)

@@ -2,6 +2,7 @@
 layout: post
 title: "Pro-Palästina-Libanon-Demo in Düsseldorf"
 author: Christian Trutz
+tags: ["demo"]
 ---
 
 ![Start der Demo](/assets/img/2024-10-05-demo-duesseldorf/2024-10-05-duesseldorf-437.jpg)

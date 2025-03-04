@@ -1,1 +1,1 @@
-npx tailwindcss -i .\tailwind-input.css -o .\assets\css\main.css -w
+npx @tailwindcss/cli -i .\tailwind-input.css -o .\assets\css\main.css -w

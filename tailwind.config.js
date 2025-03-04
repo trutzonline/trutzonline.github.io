@@ -6,33 +6,48 @@ module.exports = {
       typography: (theme) => ({
         DEFAULT: {
           css: {
-            color: theme('colors.trutzonline-gray.dark'),
-            a: {
-              color: theme('colors.trutzonline'),
-              '&:hover': {
-                color: theme('colors.trutzonline'),
-              },
+            p: {
+              color: theme('colors.white')
             },
-            blockquote: {
-              color: theme('colors.trutzonline-gray.dark')
+            code: {
+              color: theme('colors.white')
+            },
+            strong: {
+              color: theme('colors.white')
+            },
+            ol: {
+              color: theme('colors.white')
+            },
+            ul: {
+              color: theme('colors.white')
             },
             h1: {
-              color: theme('colors.trutzonline-gray.dark')
+              color: theme('colors.white')
             },
             h2: {
-              color: theme('colors.trutzonline-gray')
+              color: theme('colors.white')
+            },
+            h3: {
+              color: theme('colors.white')
+            },
+            h4: {
+              color: theme('colors.white')
+            },
+            a: {
+              color: theme('colors.moonstone'),
+              '&:hover': {
+                color: theme('colors.moonstone'),
+              }
             }
           }
         }
       })
     },
     colors: {
-      'trutzonline': '#ff4f00',
-      'trutzonline-gray': {
-        dark: '#4f4f4f',
-        DEFAULT: '#a2a2a2',
-        light: '#eaeaea',
-      }
+      'orange': '#EE6C29',
+      'jet': "#282B2B",
+      'moonstone': "#7AA6B3",
+      'white': "#FFFFFF",
     }
   },
   plugins: [

@@ -44,9 +44,9 @@ module.exports = {
       })
     },
     colors: {
-      'orange': '#EE6C29',
-      'jet': "#282B2B",
-      'moonstone': "#7AA6B3",
+      'orange': '#FF4F00',
+      'jet': "#080808",
+      'moonstone': "#00AEFF",
       'white': "#FFFFFF",
     }
   },

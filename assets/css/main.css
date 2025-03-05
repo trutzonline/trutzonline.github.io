@@ -168,6 +168,12 @@
   }
 }
 @layer utilities {
+  .collapse {
+    visibility: collapse;
+  }
+  .relative {
+    position: relative;
+  }
   .container {
     width: 100%;
     @media (width >= 40rem) {
@@ -214,11 +220,11 @@
       margin-bottom: 1.2em;
     }
     :where(a):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
-      color: #7AA6B3;
+      color: #00AEFF;
       text-decoration: underline;
       font-weight: 500;
       &:hover {
-        color: #7AA6B3;
+        color: #00AEFF;
       }
     }
     :where(strong):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
@@ -633,11 +639,11 @@
       margin-bottom: 1.2em;
     }
     :where(a):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
-      color: #7AA6B3;
+      color: #00AEFF;
       text-decoration: underline;
       font-weight: 500;
       &:hover {
-        color: #7AA6B3;
+        color: #00AEFF;
       }
     }
     :where(strong):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
@@ -1036,14 +1042,35 @@
       margin-bottom: 0;
     }
   }
+  .block {
+    display: block;
+  }
   .contents {
     display: contents;
+  }
+  .hidden {
+    display: none;
+  }
+  .inline-flex {
+    display: inline-flex;
+  }
+  .list-item {
+    display: list-item;
+  }
+  .table {
+    display: table;
   }
   .h-1 {
     height: calc(var(--spacing) * 1);
   }
   .max-w-xl {
     max-width: var(--container-xl);
+  }
+  .border-collapse {
+    border-collapse: collapse;
+  }
+  .resize {
+    resize: both;
   }
   .truncate {
     overflow: hidden;
@@ -1056,24 +1083,34 @@
   .rounded-sm {
     border-radius: var(--radius-sm);
   }
+  .border {
+    border-style: var(--tw-border-style);
+    border-width: 1px;
+  }
   .border-0 {
     border-style: var(--tw-border-style);
     border-width: 0px;
   }
   .bg-jet {
-    background-color: #282B2B;
+    background-color: #080808;
   }
   .bg-orange {
-    background-color: #EE6C29;
+    background-color: #FF4F00;
   }
   .bg-white {
     background-color: #FFFFFF;
+  }
+  .px-2 {
+    padding-inline: calc(var(--spacing) * 2);
   }
   .px-2\.5 {
     padding-inline: calc(var(--spacing) * 2.5);
   }
   .px-9 {
     padding-inline: calc(var(--spacing) * 9);
+  }
+  .py-0 {
+    padding-block: calc(var(--spacing) * 0);
   }
   .py-0\.5 {
     padding-block: calc(var(--spacing) * 0.5);
@@ -1090,10 +1127,10 @@
     font-weight: var(--font-weight-bold);
   }
   .text-moonstone {
-    color: #7AA6B3;
+    color: #00AEFF;
   }
   .text-orange {
-    color: #EE6C29;
+    color: #FF4F00;
   }
   .text-white {
     color: #FFFFFF;
@@ -1109,6 +1146,10 @@
   }
   .underline-offset-4 {
     text-underline-offset: 4px;
+  }
+  .outline {
+    outline-style: var(--tw-outline-style);
+    outline-width: 1px;
   }
   .lg\:prose-xl {
     @media (width >= 64rem) {
@@ -1521,4 +1562,9 @@
 @property --tw-font-weight {
   syntax: "*";
   inherits: false;
+}
+@property --tw-outline-style {
+  syntax: "*";
+  inherits: false;
+  initial-value: solid;
 }
